@@ -1,7 +1,7 @@
 {
-  "name": "sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
-  "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
-  "logo": "https://telegra.ph/file/654ddaf472f18b799600b.jpg",
+  "name": "𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐎𝐃𝐀",
+  "description": "كسمك تحياتي تحت شعار نت ماش مبرمج نت بطيخ @EU_TM",
+  "logo": "https://te.legra.ph/file/a9f523487c6a82d827dfd.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/sourcesemsem/bot20",
+  "repository": "https://github.com/lotusabdo/Uort.git",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -41,7 +41,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "l2_2Y"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
