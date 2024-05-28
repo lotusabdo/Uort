@@ -24,15 +24,15 @@ async def start(bot: Client, msg: Message):
 
 • بايـروجـرام مـيوزك للبوتات
 
-• تم انشاء البوت بواسطة [𖥻 𝐔𝐑 , 𝐅𝐚𝐕 𝐀𝐛𝐃𝐎𝐨 -](https://t.me/EU_TM)""",
+• تم انشاء البوت بواسطة [⌯𝐃𝐄𝐕 𝐒𝐎𝐔𝐑𝐂𝐄-](https://t.me/EU_TM)""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="إضغط لبدا استخراج الكود", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("𝐂𝐇𝐀𝐍𝐍𝐄𝐋", url="https://t.me/l2_2Y"),
-                    InlineKeyboardButton(" 𖥻 𝐔𝐑 , 𝐅𝐚𝐕 𝐀𝐛𝐃𝐎𝐨 - ", url="https://t.me/EU_TM"),
+                    InlineKeyboardButton("⌯𝐂𝐇𝐀𝐍𝐍𝐄𝐋-", url="https://t.me/l2_2Y"),
+                    InlineKeyboardButton(" ⌯𝐒𝐄𝐕 𝐒𝐎𝐔𝐑𝐂𝐄- ", url="https://t.me/EU_TM"),
                 ]
             ]
         ),
